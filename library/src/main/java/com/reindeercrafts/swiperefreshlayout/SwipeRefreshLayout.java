@@ -220,7 +220,7 @@ public class SwipeRefreshLayout extends ViewGroup {
         mListener = listener;
     }
 
-    public void setResistence(float resistance) {
+    public void setResistance(float resistance) {
         this.mResistance = resistance;
     }
 
