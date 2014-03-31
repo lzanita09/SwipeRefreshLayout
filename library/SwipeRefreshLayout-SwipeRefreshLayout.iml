@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.path="$MODULE_DIR$/../SwipeRefreshLayout" external.root.project.path="$MODULE_DIR$/.." external.system.id="GRADLE" external.system.module.group="SwipeRefreshLayout" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":SwipeRefreshLayout" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugJava" />
+        <option name="ASSEMBLE_TEST_TASK_NAME" value="assembleDebugTest" />
+        <option name="SOURCE_GEN_TASK_NAME" value="generateDebugSources" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../SwipeRefreshLayout/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../SwipeRefreshLayout/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../SwipeRefreshLayout/src/main/assets" />
+        <option name="LIBRARY_PROJECT" value="true" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/classes/debug" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build" />
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/res/rs/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/res/rs/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/res/rs/test/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/res/rs/test/debug" type="java-test-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/aidl/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/aidl/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/aidl/test/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/aidl/test/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/buildConfig/test/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/buildConfig/test/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/r/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/r/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/r/test/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/r/test/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/rs/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/rs/debug" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/rs/test/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/build/source/rs/test/debug" isTestSource="true" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/aidl">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/aidl" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/assets">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/assets" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/java">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/java" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/jni" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/res">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/res" type="java-test-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/resources">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/resources" type="java-test-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/rs">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/androidTest/rs" isTestSource="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/aidl">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/aidl" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/assets">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/assets" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/java">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/jni" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/res">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/res" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/resources">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/resources" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/rs">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/debug/rs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/aidl">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/aidl" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/assets">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/assets" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/java">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/java" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/jni">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/jni" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/res">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/res" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/resources">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/resources" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/rs">
+      <sourceFolder url="file://$MODULE_DIR$/../SwipeRefreshLayout/src/main/rs" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="appcompat-v7-19.1.0" level="project" />
+    <orderEntry type="library" exported="" name="support-v4-19.1.0" level="project" />
+  </component>
+</module>
+
